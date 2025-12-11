@@ -1,0 +1,11 @@
+city,country,cost_of_living_index,rent_index,cost_of_living_plus_rent_index,groceries_index,restaurant_price_index,local_purchasing_power_index,year
+Lisbon,Portugal,78,30,87,71,38,102,2025
+Barcelona,Spain,68,43,51,57,68,51,2025
+Berlin,Germany,54,55,70,45,47,109,2025
+Prague,Czech Republic,82,59,82,44,33,93,2025
+Budapest,Hungary,47,43,61,76,54,57,2025
+Warsaw,Poland,60,22,71,73,89,96,2025
+Tallinn,Estonia,78,41,93,32,43,84,2025
+Athens,Greece,58,21,74,66,79,85,2025
+Rome,Italy,62,43,98,36,87,99,2025
+Paris,France,50,49,76,50,38,53,2025

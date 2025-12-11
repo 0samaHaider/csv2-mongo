@@ -1,0 +1,11 @@
+city,country,wifi_speed_mbps,coworking_count,coffee_price,taxi_price_km,1_bed_apt_price,meal_price,sunshine_hours,attractions_count,instagram_photos_count,beer_price
+Lisbon,Portugal,11,3,3.3,2.47,340,39,2112,13,2757,6.4
+Barcelona,Spain,143,13,3.55,2.04,327,33,2985,19,8574,5.12
+Berlin,Germany,63,14,3.09,0.9,434,14,2142,19,7374,3.48
+Prague,Czech Republic,115,14,5.31,0.51,500,12,2528,30,7892,2.53
+Budapest,Hungary,13,7,3.43,2.13,1139,21,2741,46,2678,4.28
+Warsaw,Poland,63,13,3.12,1.91,1079,17,2002,17,4242,3.09
+Tallinn,Estonia,155,6,4.17,1.96,332,31,2266,36,5636,4.08
+Athens,Greece,53,11,2.56,2.04,347,36,1897,43,2059,6.42
+Rome,Italy,171,8,5.21,0.65,802,12,2370,36,7668,3.62
+Paris,France,199,13,2.3,1.22,706,10,2294,8,4157,2.61
