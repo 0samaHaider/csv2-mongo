@@ -1,7 +1,5 @@
-
 ````markdown
 # CSV2Mongo
-
 This project demonstrates a simple workflow to merge multiple CSV files, clean column names, and save the resulting dataset to MongoDB using Python.
 
 ## Features
